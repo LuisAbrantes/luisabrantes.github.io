@@ -1,0 +1,35 @@
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #222831;
+}
+
+h1 {
+    color: wheat;
+}
+
+h2 {
+    color: wheat;
+}
+
+h3 {
+    color: wheat;
+}
+
+p {
+    color: wheat;
+}
+
+a{
+    color: rgb(206, 193, 42);
+    /* rgb(206, 193, 42) */
+}
+ul {
+    color: wheat;
+}
+
+li {
+    color: wheat;
+}
