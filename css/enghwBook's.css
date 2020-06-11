@@ -1,0 +1,69 @@
+h2 {
+    text-align: center;
+}
+
+body {
+    background-color: #222831;
+}
+
+h1 {
+    color: wheat;
+}
+
+h2 {
+    color: wheat;
+}
+
+h3 {
+    color: wheat;
+}
+
+p {
+    color: wheat;
+    font-family: "Raleway";
+    text-align: center;
+}
+
+a{
+    color: gold;
+    /* rgb(206, 193, 42) */
+}
+ul {
+    color: wheat;
+}
+
+li {
+    color: wheat;
+}
+
+.title {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: bold 700;
+    font-size: 2rem;
+}
+
+.sub-title {
+    text-align: center;
+    font-family: "Dancing Script";
+    font-size: 0.8;
+}
+
+h4 {
+    color: wheat;
+    text-align: center;
+    font-family: "Dancing Script";
+}
+
+img {
+    position: relative;
+}
+
+.bookinf {
+    font-family: "Raleway";
+    font-size: 3.5rem;
+} 
+
+.made {
+    font-size: 2rem;
+}

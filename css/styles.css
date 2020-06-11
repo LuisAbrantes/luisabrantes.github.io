@@ -1,0 +1,52 @@
+body {
+    background-color: #222831;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: wheat;
+    text-align: center;
+}
+
+h3 {
+    color: wheat;
+}
+
+p {
+    color: wheat;
+}
+
+a{
+    color: rgb(206, 193, 42);
+    /* rgb(206, 193, 42) */
+}
+/* h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+} */
+
+/* hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px ;
+    width: 5%;
+} */
+
+ul {
+    color: wheat;
+}
+
+li {
+    color: wheat;
+}
+
+table {
+        color: wheat;
+    }
