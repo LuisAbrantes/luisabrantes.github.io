@@ -20,10 +20,12 @@ h3 {
 
 p {
     color: wheat;
+    text-align: justify;
 }
 
 a{
     color: rgb(206, 193, 42);
+    text-align: center;
     /* rgb(206, 193, 42) */
 }
 ul {
