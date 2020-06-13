@@ -1,4 +1,5 @@
 h2 {
+    /* font-family: "Raleway"; */
     text-align: center;
 }
 
@@ -7,20 +8,24 @@ body {
 }
 
 h1 {
+    /* font-family: "Raleway"; */
     color: wheat;
 }
 
 h2 {
+    /* font-family: "Raleway"; */
     color: wheat;
 }
 
 h3 {
+    /* font-family: "Raleway"; */
     color: wheat;
 }
 
 p {
     color: wheat;
     text-align: justify;
+    /* font-family: "Raleway"; */
 }
 
 a{
