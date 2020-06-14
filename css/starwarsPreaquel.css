@@ -44,3 +44,7 @@ li {
 hr {
     color: wheat;
 }
+
+p::first-letter {
+    font-size: 40px;
+}
