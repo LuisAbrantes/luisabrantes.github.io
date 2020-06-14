@@ -1,50 +1,37 @@
-h2 {
-    /* font-family: "Raleway"; */
-    text-align: center;
+:root {
+    --primary-color: #ffCF00;
 }
 
 body {
-    background-color: #222831;
+    background-color: #000;
 }
 
-h1 {
-    /* font-family: "Raleway"; */
-    color: wheat;
-}
-
-h2 {
-    /* font-family: "Raleway"; */
-    color: wheat;
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    font-weight: 500;
+    font-family: "Raleway";
+    color: var(--primary-color);
     text-align: center;
-}
-
-h3 {
-    /* font-family: "Raleway"; */
-    text-align: center;
-    color: wheat;
 }
 
 p {
-    color: wheat;
+    color: var(--primary-color);
     text-align: justify;
-    /* font-family: "Raleway"; */
+    margin-left: 2rem;
+    margin-right: 2rem;
+    /* display: block; */
+}
+
+a {
+    font-weight: 700;
+    font-family: "Raleway";
+}
+
+a:visited {
+    color: rgb(59, 116, 24);
 }
 
 a{
-    color: rgb(206, 193, 42);
-    text-align: center;
-    /* rgb(206, 193, 42) */
-}
-ul {
-    color: wheat;
-}
-
-li {
-    color: wheat;
-}
-
-hr {
-    color: wheat;
+    color: rgb(105, 206, 42);
 }
 
 p::first-letter {
