@@ -15,10 +15,12 @@ h1 {
 h2 {
     /* font-family: "Raleway"; */
     color: wheat;
+    text-align: center;
 }
 
 h3 {
     /* font-family: "Raleway"; */
+    text-align: center;
     color: wheat;
 }
 
