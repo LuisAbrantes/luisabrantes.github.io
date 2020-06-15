@@ -1,9 +1,12 @@
 :root {
+    /* --primary-color: rgb(220,173,0); */
     --primary-color: #ffCF00;
+    
 }
 
 body {
-    background-color: #07031A;
+    /* background-color: #07031A; */
+    background-color: #000;
 }
 
 h1, h2, h3, h4, h5, h6, p, ul, ol, li {
@@ -11,6 +14,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, li {
     font-family: "Raleway";
     color: var(--primary-color);
     text-align: center;
+    line-height: 200%;
 }
 
 p {
@@ -23,6 +27,8 @@ p {
 a {
     font-weight: 700;
     font-family: "Raleway";
+    line-height: 200%;
+
 }
 
 a:visited {
