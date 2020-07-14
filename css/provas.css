@@ -1,0 +1,12 @@
+body {
+    background-color: #bac964;
+    margin: 3rem;
+}
+
+h1, h2, h3, ul, ol, p {
+    color: #06623b;
+}
+
+a {
+    color: #2b580c;
+}
