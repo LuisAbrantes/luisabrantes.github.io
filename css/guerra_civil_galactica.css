@@ -1,0 +1,50 @@
+:root {
+    /* --primary-color: rgb(220,173,0); */
+    --primary-color: #ffCF00;
+    
+}
+
+body {
+    /* background-color: #07031A; */
+    background-color: #000;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    font-weight: 500;
+    font-family: "Raleway";
+    color: var(--primary-color);
+    text-align: center;
+    line-height: 200%;
+}
+
+p {
+    color: var(--primary-color);
+    text-align: justify;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+a {
+    font-weight: 700;
+    font-family: "Raleway";
+    line-height: 200%;
+
+}
+
+a:visited {
+    color: rgb(127, 47, 196);
+}
+
+a{
+    color: rgb(105, 206, 42);
+}
+
+p::before {
+    content:"\A\2003\A\2003"; 
+}
+/* p::first-letter {
+    font-size: 1.8rem;
+} */
+b {
+    color: wheat;
+}
